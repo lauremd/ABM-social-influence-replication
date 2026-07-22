@@ -1,0 +1,6 @@
+{
+"nagents": 50,
+"nmedia": 2,
+"ntimes": 1000,
+"logfile": "Simulation A.log"
+} 
